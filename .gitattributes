@@ -1,2 +1,53 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vibroware Labs</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>Vibroware Labs</h1>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#technology">Technology</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home">
+      <h2>Resonant Architectures for Analog Computation</h2>
+      <p>Developing low-power, high-coherence signal processors through vibrational geometry and mechanical interference.</p>
+    </section>
+
+    <section id="about">
+      <h2>About</h2>
+      <p>Founded by Asa Bruss in 2025, Vibroware Labs explores a new paradigm of analog computation using tensioned membrane systems. Our mission is to bring theoretical insight into physical hardware that redefines how computation can be structured and experienced.</p>
+    </section>
+
+    <section id="technology">
+      <h2>Technology</h2>
+      <p>Our core innovation is a resonant membrane computing architecture capable of analog signal transformation. A preprint outlining our method is available at:<br>
+        <a href="https://doi.org/10.20944/preprints202505.1587.v1" target="_blank">DOI: 10.20944/preprints202505.1587.v1</a>
+      </p>
+      <p>We have filed a provisional patent and are currently prototyping devices for biosignal processing, audio transformation, and embedded analog AI applications.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:contact@vibrowarelabs.com">contact@vibrowarelabs.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Vibroware Labs, LLC</p>
+  </footer>
+</body>
+</html>
+
